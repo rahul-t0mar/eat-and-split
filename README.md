@@ -1,3 +1,8 @@
+# Check the final render of the above project:
+-  https://eat-and-split-pvt.vercel.app/ Link to the rendered project on vercel.
+-  Add a new friend to start the eat and split project.
+-  You can check how much each friend own you. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
